@@ -4,6 +4,28 @@ This project involves analyzing historical product demand data to identify key t
 
 The dataset includes product codes, warehouses, product categories, dates, and order demand values. It will undergo cleaning, preprocessing, descriptive analysis, time series decomposition, and demand forecasting to deliver actionable insights.
 
+# Table of Contents
+
+Project Overview
+
+Project Objectives
+
+Project Structure
+
+Main Tasks
+
+Subtasks
+
+Data
+
+Steps
+
+Tools & Technologies
+
+Expected Outcomes
+
+Contact Information
+
 # Project Objectives
 
 1.Data Cleaning & Preprocessing:
